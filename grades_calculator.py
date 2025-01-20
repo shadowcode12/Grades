@@ -19,6 +19,6 @@ elif marks >= 40:
 
 else:
     grade = "F"
-    print("You have Failed, Better luck next time")
+    print("You are Failed, Better luck next time")
 
 print(f"Hello! My name is {name}, and my marks is {marks} and my grade is {grade}")
